@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/wooshan-gamage-5b03b91bb/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-wooshan-gamage" height="30" width="40" />
   </a>
-  &nbsp; <!-- This adds a small space between the icons -->
+  &nbsp;
   <a href="https://www.instagram.com/wooshangamage8/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram-wooshan-gamage" height="30" width="40" />
   </a>
