@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭  I’m currently a Student at the University of Westminster <br>👯  I’m looking to collaborate on Cyber Security field<br>🤝  Open to Collaborating on Penetration Testing Projects!<br>🌱  I’m currently learning Network Security and Penetration Testing ( Red Team )<br>💬  Ask me about Cybersecurity, ethical hacking, and CTF challenges.<br>⚡  Fun fact: The word "hacker" originally described someone with impressive technical skills who could creatively solve problems—not just someone who breaks into systems.
+🔭  I’m currently a Student at the University of Westminster <br>
+👯  I’m looking to collaborate on Cyber Security field<br>
+🤝  Open to Collaborating on Penetration Testing Projects!<br>
+🌱  I’m currently learning Network Security and Penetration Testing ( Red Team )<br>
+💬  Ask me about Cybersecurity, ethical hacking, and CTF challenges.<br>
+⚡  Fun fact: The word "hacker" originally described someone with impressive technical skills who could creatively solve problems—not just someone who breaks into systems.
 
 
 ## 🌐 Socials:
