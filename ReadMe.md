@@ -1,7 +1,5 @@
 # Hi, 👋 I'm Wooshan Gamage
 
-💫 **About Me:**
-<br>
 🔭  I’m currently a Student at the University of Westminster <br>
 <br>
 👯  I’m looking to collaborate on Cyber Security field<br>
