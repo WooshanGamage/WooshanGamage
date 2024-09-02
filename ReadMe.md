@@ -1,4 +1,4 @@
-<center>#Hi, 👋 I'm Wooshan Gamage</center>
+#<center>Hi, 👋 I'm Wooshan Gamage</center>
 <br>
 💫 About Me:
 🔭  I’m currently a Student at the University of Westminster <br>
