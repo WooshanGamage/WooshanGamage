@@ -1,4 +1,8 @@
+<div align="center">
+  
 # Hi, 👋 I'm Wooshan Gamage
+
+</div>
 
 🔭  I’m currently a Student at the University of Westminster <br>
 <br>
