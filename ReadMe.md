@@ -15,7 +15,7 @@
 💬  Ask me about Cybersecurity, ethical hacking, and CTF challenges.<br>
 <br>
 ⚡  Fun fact: The word "hacker" originally described someone with impressive technical skills who could creatively solve problems—not just someone who breaks into systems.
-<br>
+<br><br>
 <br>
 
 
